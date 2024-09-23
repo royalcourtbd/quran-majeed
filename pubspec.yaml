@@ -1,0 +1,230 @@
+name: quran_majeed
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 5.0.0+73
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  awesome_notifications: ^0.9.3+1
+  cached_network_image: ^3.3.1
+  cancellation_token: ^2.0.1
+  cloud_firestore: ^5.2.1
+  collection: ^1.18.0
+  device_info_plus: ^10.1.2
+  dio: ^5.4.0
+  drift: ^2.14.0
+  equatable: ^2.0.5
+  file_picker: ^8.0.7
+  firebase_analytics: ^11.2.1
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  firebase_crashlytics: ^4.0.4
+  firebase_messaging: ^15.0.4
+  flutter:
+    sdk: flutter
+  flutter_displaymode: ^0.6.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_html: ^3.0.0-beta.2
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.9
+  flutter_svg: ^2.0.9
+  fluttertoast: ^8.2.4
+  fpdart: ^1.1.0
+  freezed_annotation: ^2.4.1
+  get: ^4.6.6
+  get_it: ^7.6.4
+  google_sign_in: ^6.1.5
+  hive: ^2.2.3
+  in_app_review: ^2.0.9
+  intl: ^0.19.0
+  isolates_helper: ^0.5.2
+  just_audio: ^0.9.36
+  just_audio_background: ^0.0.1-beta.11
+  open_settings_plus: ^0.3.3
+  package_info_plus: ^8.0.2
+  path: ^1.8.3
+  path_provider: ^2.0.0
+  responsive_sizer: ^3.3.0+1
+  share_plus: ^10.0.0
+  sqflite: ^2.3.3+1
+  sqlite3_flutter_libs: ^0.5.24
+  synchronized: ^3.1.0+1
+  talker_logger: ^4.1.5
+  upgrader: ^10.3.0
+  url_launcher: ^6.2.2
+  xml: ^6.5.0
+
+dev_dependencies:
+  build_runner: ^2.4.7
+  drift_dev: ^2.14.0
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter packages.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  generate: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/database/
+    - assets/images/non_svg/
+    - assets/images/svg/home_icons/
+    - assets/images/svg/bottom_bar/
+    - assets/images/svg/notification/
+    - assets/images/svg/
+    - assets/images/non_svg/img_qari/
+    - assets/jsonFile/trans_tafseer.json
+    - assets/jsonFile/
+    - assets/fonts/
+    - assets/fonts/inter/
+    - assets/fonts/koho/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/inter/Inter-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/inter/Inter-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/inter/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/inter/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/inter/Inter-SemiBold.ttf
+          weight: 600
+    - family: KoHo
+      fonts:
+        - asset: assets/fonts/koho/KoHo-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/koho/KoHo-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/koho/KoHo-Regular.ttf
+          weight: 400
+
+    - family: CinzelDecorative
+      fonts:
+        - asset: assets/fonts/CinzelDecorative-Bold.ttf
+    - family: KFGQ
+      fonts:
+        - asset: assets/fonts/KFGQ_hafs.ttf
+    - family: MeQuran
+      fonts:
+        - asset: assets/fonts/me_quran.ttf
+    - family: SuraNames
+      fonts:
+        - asset: assets/fonts/sura_names.ttf
+    - family: AlMushaf
+      fonts:
+        - asset: assets/fonts/Al_Mushaf.ttf
+    - family: AlQalamKolkatta
+      fonts:
+        - asset: assets/fonts/Al_Qalam_Kolkatta.ttf
+    - family: Kalpurush
+      fonts:
+        - asset: assets/fonts/font_kalpurush.ttf
+    - family: HafsSmart
+      fonts:
+        - asset: assets/fonts/HafsSmart_08.ttf
+    - family: Kitab
+      fonts:
+        - asset: assets/fonts/Kitab_Bold.ttf
+        - asset: assets/fonts/Kitab_Regular.ttf
+
+    - family: UthmanicHafs1
+      fonts:
+        - asset: assets/fonts/Uthmanic_Hafs1_Ver17.ttf
+    - family: UthmanTN1
+      fonts:
+        - asset: assets/fonts/UthmanTN1_Ver20.ttf
+    - family: UthmanTN1B
+      fonts:
+        - asset: assets/fonts/UthmanTN1B_Ver20.ttf
+    - family: AlQalamQuranMajeed
+      fonts:
+        - asset: assets/fonts/al_qalam_quran_majeed.ttf
+    - family: AmiriQuran
+      fonts:
+        - asset: assets/fonts/Amiri_Quran.ttf
+    - family: Lateef
+      fonts:
+        - asset: assets/fonts/Lateef.ttf
+    - family: NooreHidayat
+      fonts:
+        - asset: assets/fonts/noorehidayat.ttf
+    - family: NooreHira
+      fonts:
+        - asset: assets/fonts/noorehira.ttf
+    - family: NooreHuda
+      fonts:
+        - asset: assets/fonts/noorehuda.ttf
+    - family: PDMS_Saleem
+      fonts:
+        - asset: assets/fonts/pdms_saleem.ttf
+    - family: PDMS_Islamic
+      fonts:
+        - asset: assets/fonts/pdms_Islamic.ttf
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+flutter_native_splash:
+  background_image: "assets/images/non_svg/splash_screen.png"
+  background_image_android: "assets/images/non_svg/splash_screen.png"
+  fullscreen: true
+
+  android_12:
+    color: "#614730"
+    image: "assets/images/non_svg/splash_icon.png"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/non_svg/launcher_icon.png"
+  adaptive_icon_background: "assets/images/non_svg/launcher_icon_background.png"
+  adaptive_icon_foreground: "assets/images/non_svg/launcher_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true

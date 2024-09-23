@@ -1,0 +1,1010 @@
+{
+    "trans": {
+        "Albanian": [
+            {
+                "name": "Hassan Efendi Nahi",
+                "file_name": "sq_nahi",
+                "size": "1",
+                "language": "Albanian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/sq_nahi.db",
+                "language_code": "sq"
+            },
+            {
+                "name": "Sherif Ahmeti",
+                "file_name": "albenian_ahmeti",
+                "size": "1",
+                "language": "Albanian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/albenian_ahmeti.db",
+                "language_code": "sq"
+            }
+        ],
+        "Amharic": [
+            {
+                "name": "Sadiq/Sani Habib",
+                "file_name": "amheric_sadiq",
+                "size": "1.4",
+                "language": "Amharic",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/amheric_sadiq.db",
+                "language_code": "am"
+            }
+        ],
+        "Assamese": [
+            {
+                "name": "Rafeequl Islam Habibur",
+                "file_name": "as_rafeeq",
+                "size": "2.5",
+                "language": "Assamese",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/as_rafeeq.db",
+                "language_code": "as"
+            }
+        ],
+        "Azerbaijani": [
+            {
+                "name": "Alikhan Musayev",
+                "file_name": "azerbaijani_musayev",
+                "size": "1",
+                "language": "Azerbaijani",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/azerbaijani_musayev.db",
+                "language_code": "az"
+            }
+        ],
+        "Bengali": [
+            {
+                "name": "Bayaan Foundation",
+                "file_name": "bn_bayaan",
+                "size": "2.3",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_bayaan.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Fozlur Rahman",
+                "file_name": "bn_fozlur",
+                "size": "2.4",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_fozlur.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Muhiuddin Khan",
+                "file_name": "bn_mkhan",
+                "size": "2.2",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_mkhan.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Mujibur Rahman",
+                "file_name": "bn_mujibur",
+                "size": "2.3",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_mujibur.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Abu Bakar Zakaria",
+                "file_name": "bn_trans_zakariya",
+                "size": "2.3",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_trans_zakariya.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Taisirul Quran",
+                "file_name": "bn_taisirul",
+                "size": "2.4",
+                "language": "Bengali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bn_taisirul.db",
+                "language_code": "bn"
+            }
+        ],
+        "Bosnian": [
+            {
+                "name": "Besim Korkut",
+                "file_name": "bosnian_korkut",
+                "size": "1",
+                "language": "Bosnian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bosnian_korkut.db",
+                "language_code": "bs"
+            },
+            {
+                "name": "Muhamed Mehanovi?",
+                "file_name": "bs_mihanovich",
+                "size": "1",
+                "language": "Bosnian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/bs_mihanovich.db",
+                "language_code": "bs"
+            }
+        ],
+        "Chinese": [
+            {
+                "name": "Ma Jian (Simplified)",
+                "file_name": "chinese_jian",
+                "size": "1",
+                "language": "Chinese",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/chinese_jian.db",
+                "language_code": "zh"
+            }
+        ],
+        "Divehi": [
+            {
+                "name": "Office of the President of Maldives",
+                "file_name": "divehi_maldives",
+                "size": "2.8",
+                "language": "Divehi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/divehi_maldives.db",
+                "language_code": "dv"
+            }
+        ],
+        "Dutch": [
+            {
+                "name": "Malak Faris Abdalsalaam",
+                "file_name": "nl_abdalsalaam",
+                "size": "1",
+                "language": "Dutch",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/nl_abdalsalaam.db",
+                "language_code": "nl"
+            },
+            {
+                "name": "Salomo Keyzer",
+                "file_name": "dutch_keyzer",
+                "size": "1",
+                "language": "Dutch",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/dutch_keyzer.db",
+                "language_code": "nl"
+            },
+            {
+                "name": "Sofjan Siregar",
+                "file_name": "nl_siregar",
+                "size": "1",
+                "language": "Dutch",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/nl_siregar.db",
+                "language_code": "nl"
+            }
+        ],
+        "English": [
+            {
+                "name": "Abdul Haleem",
+                "file_name": "en_haleem",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_haleem.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Dr. Mustafa Khattab, the Clear Quran",
+                "file_name": "en_clear_quran",
+                "size": "1.1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_clear_quran.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Mohsin Khan/Al-Hilali",
+                "file_name": "en_khanhilali",
+                "size": "1.1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_khanhilali.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Mufti Taqi Usmani",
+                "file_name": "en_muftitaqi",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_muftitaqi.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Pickthall",
+                "file_name": "en_pickthall",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_pickthall.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Sahih International",
+                "file_name": "en_sahih",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_sahih.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Tafsir Jalalayn",
+                "file_name": "en_jalalayn",
+                "size": "2.4",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_jalalayn.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Transliteration",
+                "file_name": "en_transliteration",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_transliteration.db",
+                "language_code": "en"
+            },
+            {
+                "name": "Yusuf Ali",
+                "file_name": "en_yusufali",
+                "size": "1",
+                "language": "English",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/en_yusufali.db",
+                "language_code": "en"
+            }
+        ],
+        "Farsi": [
+            {
+                "name": "Hussein Taji Kal Deri",
+                "file_name": "farsi_husseintaji",
+                "size": "1.4",
+                "language": "Farsi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/farsi_husseintaji.db",
+                "language_code": "fa"
+            },
+            {
+                "name": "Islamhouse",
+                "file_name": "fa_islamhouse",
+                "size": "1.6",
+                "language": "Farsi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/fa_islamhouse.db",
+                "language_code": "fa"
+            }
+        ],
+        "Filipino": [
+            {
+                "name": "Al-QUR' N Al-Kareem (ICDO-KSA)",
+                "file_name": "tl_icdo",
+                "size": "2.6",
+                "language": "Filipino",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tl_icdo.db",
+                "language_code": "tl"
+            },
+            {
+                "name": "The Quran Translation (Salas & Taron)",
+                "file_name": "tl_salas_taron",
+                "size": "1.3",
+                "language": "Filipino",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tl_salas_taron.db",
+                "language_code": "tl"
+            }
+        ],
+        "French": [
+            {
+                "name": "Muhammad Hamidullah",
+                "file_name": "french_hamid",
+                "size": "1",
+                "language": "French",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/french_hamid.db",
+                "language_code": "fr"
+            }
+        ],
+        "German": [
+            {
+                "name": "Ahmed Von Denffer",
+                "file_name": "de_denfer",
+                "size": "1.4",
+                "language": "German",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/de_denfer.db",
+                "language_code": "de"
+            },
+            {
+                "name": "Bubenheim/Elyas",
+                "file_name": "german_bubenheim",
+                "size": "1",
+                "language": "German",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/german_bubenheim.db",
+                "language_code": "de"
+            }
+        ],
+        "Hausa": [
+            {
+                "name": "Abubakar Mahmoud Gumi",
+                "file_name": "ha_mahmoud",
+                "size": "1",
+                "language": "Hausa",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ha_mahmoud.db",
+                "language_code": "ha"
+            }
+        ],
+        "Hindi": [
+            {
+                "name": "Farooq/Nadwi",
+                "file_name": "hindi_farooq",
+                "size": "2.3",
+                "language": "Hindi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/hn/hindi_farooq.db",
+                "language_code": "hi"
+            },
+            {
+                "name": "Md. Farooq/Ahmed",
+                "file_name": "hindi_nadwi",
+                "size": "2.5",
+                "language": "Hindi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/hn/hindi_nadwi.db",
+                "language_code": "hi"
+            }
+        ],
+        "Indonesian": [
+            {
+                "name": "Bahasa",
+                "file_name": "in_bahasa",
+                "size": "1.1",
+                "language": "Indonesian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/indo/in_bahasa.db",
+                "language_code": "id"
+            },
+            {
+                "name": "Tafsir Jalalayn",
+                "file_name": "in_jalalayn",
+                "size": "2.9",
+                "language": "Indonesian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/indo/in_jalalayn.db",
+                "language_code": "id"
+            }
+        ],
+        "Italian": [
+            {
+                "name": "Hamza Roberto Piccardo",
+                "file_name": "it_piccardo",
+                "size": "1",
+                "language": "Italian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/it_piccardo.db",
+                "language_code": "it"
+            }
+        ],
+        "Japanese": [
+            {
+                "name": "Ryoichi Mita",
+                "file_name": "ja_meta",
+                "size": "1.3",
+                "language": "Japanese",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ja_meta.db",
+                "language_code": "ja"
+            }
+        ],
+        "Kazakh": [
+            {
+                "name": "Khalifah Altai",
+                "file_name": "kk_altai",
+                "size": "1.5",
+                "language": "Kazakh",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/kk_altai.db",
+                "language_code": "kk"
+            },
+            {
+                "name": "Khalifah Altai Charity Foundation",
+                "file_name": "kk_altai_assoc",
+                "size": "1.7",
+                "language": "Kazakh",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/kk_altai_assoc.db",
+                "language_code": "kk"
+            }
+        ],
+        "Khmer": [
+            {
+                "name": "Cambodian Muslim Community Development",
+                "file_name": "km_cambodia",
+                "size": "3.2",
+                "language": "Khmer",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/km_cambodia.db",
+                "language_code": "km"
+            }
+        ],
+        "Korean": [
+            {
+                "name": "Korean",
+                "file_name": "ko_korean",
+                "size": "1.1",
+                "language": "Korean",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ko_korean.db",
+                "language_code": "ko"
+            }
+        ],
+        "Kurdish": [
+            {
+                "name": "Burhan Muhammad-Amin",
+                "file_name": "ku_asan",
+                "size": "2.7",
+                "language": "Kurdish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ku_asan.db",
+                "language_code": "ku"
+            },
+            {
+                "name": "Muhammad Saleh Bamoki",
+                "file_name": "ku_bamoki",
+                "size": "1.7",
+                "language": "Kurdish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ku_bamoki.db",
+                "language_code": "ku"
+            }
+        ],
+        "Malay": [
+            {
+                "name": "Muhammad Basmeih",
+                "file_name": "ms_basmeih",
+                "size": "1.5",
+                "language": "Malay",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ms_basmeih.db",
+                "language_code": "ms"
+            }
+        ],
+        "Malayalam": [
+            {
+                "name": "Abdul Hameed/Parappoor",
+                "file_name": "ml_abdulhameed",
+                "size": "3.5",
+                "language": "Malayalam",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ml_abdulhameed.db",
+                "language_code": "ml"
+            },
+            {
+                "name": "Karakunnu/Elayavoor",
+                "file_name": "ml_karakunnu",
+                "size": "3",
+                "language": "Malayalam",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ml_karakunnu.db",
+                "language_code": "ml"
+            }
+        ],
+        "Maranao": [
+            {
+                "name": "So Quran al karim",
+                "file_name": "mrw_soquran",
+                "size": "1",
+                "language": "Maranao",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/mrw_soquran.db",
+                "language_code": "mrw"
+            }
+        ],
+        "Nepali": [
+            {
+                "name": "Islami Sangh Nepal",
+                "file_name": "ne_islamicsangh",
+                "size": "2.5",
+                "language": "Nepali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ne_islamicsangh.db",
+                "language_code": "ne"
+            }
+        ],
+        "Oromo": [
+            {
+                "name": "Ghali Apapur Apaghuna",
+                "file_name": "om_ababor",
+                "size": "1",
+                "language": "Oromo",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/om_ababor.db",
+                "language_code": "om"
+            }
+        ],
+        "Pashto": [
+            {
+                "name": "Abdul Wali Khan",
+                "file_name": "ps_abdulwali",
+                "size": "1.6",
+                "language": "Pashto",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ps_abdulwali.db",
+                "language_code": "ps"
+            },
+            {
+                "name": "Zakaria AbulSalam",
+                "file_name": "ps_zakaria",
+                "size": "1.6",
+                "language": "Pashto",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ps_zakaria.db",
+                "language_code": "ps"
+            }
+        ],
+        "Portuguese": [
+            {
+                "name": "Samir El Hayek",
+                "file_name": "pt_hayek",
+                "size": "1",
+                "language": "Portuguese",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/pt_hayek.db",
+                "language_code": "pt"
+            }
+        ],
+        "Russian": [
+            {
+                "name": "Abu Adel",
+                "file_name": "ru_abuadel",
+                "size": "3",
+                "language": "Russian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ru_abuadel.db",
+                "language_code": "ru"
+            },
+            {
+                "name": "Elmir Kuliev",
+                "file_name": "ru_kuliev",
+                "size": "1.5",
+                "language": "Russian",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ru_kuliev.db",
+                "language_code": "ru"
+            }
+        ],
+        "Sindhi": [
+            {
+                "name": "Taj Mehmood Amroti",
+                "file_name": "sd_amroti",
+                "size": "1.4",
+                "language": "Sindhi",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/sd_amroti.db",
+                "language_code": "sd"
+            }
+        ],
+        "Sinhala": [
+            {
+                "name": "Translation of the meanings of the 'Noble Qur'an",
+                "file_name": "si_mahir",
+                "size": "2.5",
+                "language": "Sinhala",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/si_mahir.db",
+                "language_code": "si"
+            }
+        ],
+        "Somali": [
+            {
+                "name": "Mahmud Muhammad Abduh",
+                "file_name": "so_abduh",
+                "size": "1",
+                "language": "Somali",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/so_abduh.db",
+                "language_code": "so"
+            }
+        ],
+        "Spanish": [
+            {
+                "name": "Julio Cortes",
+                "file_name": "es_cortes",
+                "size": "1",
+                "language": "Spanish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/es_cortes.db",
+                "language_code": "es"
+            },
+            {
+                "name": "Sheikh Isa Garcia",
+                "file_name": "es_garcia",
+                "size": "1",
+                "language": "Spanish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/es_garcia.db",
+                "language_code": "es"
+            }
+        ],
+        "Swahili": [
+            {
+                "name": "Ali Muhsin Al-Barwani",
+                "file_name": "sw_barwani",
+                "size": "1",
+                "language": "Swahili",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/sw_barwani.db",
+                "language_code": "sw"
+            }
+        ],
+        "Swedish": [
+            {
+                "name": "Mohammed Knut Bernstrom",
+                "file_name": "sv_bernstrom",
+                "size": "1",
+                "language": "Swedish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/sv_bernstrom.db",
+                "language_code": "sv"
+            }
+        ],
+        "Tajik": [
+            {
+                "name": "Arifi",
+                "file_name": "tg_arifi",
+                "size": "1.9",
+                "language": "Tajik",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tg_arifi.db",
+                "language_code": "tg"
+            }
+        ],
+        "Tamil": [
+            {
+                "name": "Abdul Hameed Baqavi",
+                "file_name": "ta_baqavi",
+                "size": "4",
+                "language": "Tamil",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ta_baqavi.db",
+                "language_code": "ta"
+            },
+            {
+                "name": "Jan Trust Foundation",
+                "file_name": "ta_jantrust",
+                "size": "3.6",
+                "language": "Tamil",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ta_jantrust.db",
+                "language_code": "ta"
+            },
+            {
+                "name": "Mufti Omar Sheriff Qasimi, Darul Huda",
+                "file_name": "ta_omar_sheriff",
+                "size": "3.4",
+                "language": "Tamil",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ta_omar_sheriff.db",
+                "language_code": "ta"
+            }
+        ],
+        "Telegu": [
+            {
+                "name": "Divya Quran Sandesham",
+                "file_name": "te_divya",
+                "size": "2.8",
+                "language": "Telegu",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/te_divya.db",
+                "language_code": "te"
+            }
+        ],
+        "Thai": [
+            {
+                "name": "King Fahad Quran Complex",
+                "file_name": "th_fahad",
+                "size": "2.8",
+                "language": "Thai",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/th_fahad.db",
+                "language_code": "th"
+            }
+        ],
+        "Turkish": [
+            {
+                "name": "Diyanet Isleri",
+                "file_name": "tr_diyanet",
+                "size": "1",
+                "language": "Turkish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tr_diyanet.db",
+                "language_code": "tr"
+            },
+            {
+                "name": "Elmalili Hamdi Yazir",
+                "file_name": "tr_yazir",
+                "size": "1",
+                "language": "Turkish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tr_yazir.db",
+                "language_code": "tr"
+            },
+            {
+                "name": "Muslim Shahin",
+                "file_name": "tr_shahin",
+                "size": "1",
+                "language": "Turkish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tr_shahin.db",
+                "language_code": "tr"
+            },
+            {
+                "name": "Rowwad Translation Center",
+                "file_name": "tr_rwwad",
+                "size": "1",
+                "language": "Turkish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tr_rwwad.db",
+                "language_code": "tr"
+            },
+            {
+                "name": "Shaban Britch",
+                "file_name": "tr_shaban",
+                "size": "1",
+                "language": "Turkish",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/tr_shaban.db",
+                "language_code": "tr"
+            }
+        ],
+        "Urdu": [
+            {
+                "name": "Muhammad Junagarhi",
+                "file_name": "ur_junagarhi",
+                "size": "1.5",
+                "language": "Urdu",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ur_junagarhi.db",
+                "language_code": "ur"
+            }
+        ],
+        "Uyghur": [
+            {
+                "name": "Muhammad Saleh",
+                "file_name": "ug_saleh",
+                "size": "2.2",
+                "language": "Uyghur",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/ug_saleh.db",
+                "language_code": "ug"
+            }
+        ],
+        "Uzbek": [
+            {
+                "name": "Alauddin Mansour",
+                "file_name": "uz_mansour",
+                "size": "2.1",
+                "language": "Uzbek",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/uz_mansour.db",
+                "language_code": "uz"
+            },
+            {
+                "name": "M. Sodik/M. Yousuf",
+                "file_name": "uz_yusuf",
+                "size": "2.7",
+                "language": "Uzbek",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/uz_yusuf.db",
+                "language_code": "uz"
+            }
+        ],
+        "Yoruba": [
+            {
+                "name": "Translation of Qur'an",
+                "file_name": "yo_mikail",
+                "size": "1.5",
+                "language": "Yoruba",
+                "type": "translation",
+                "link": "https://download.quranmazid.com/qurandbs/translation/yo_mikail.db",
+                "language_code": "yo"
+            }
+        ]
+    },
+    "tafsir": {
+        "Arabic": [
+            {
+                "name": "Baghawy Tafseer",
+                "file_name": "ar_baghawy",
+                "size": "8.5",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_baghawy.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Qasim Hamidan Da's",
+                "file_name": "ar_e3rab",
+                "size": "5.6",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_e3rab.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Ibn Kathir",
+                "file_name": "ar_ibnkathir",
+                "size": "15.5",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_ibnkathir.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Muyassar Tafseer",
+                "file_name": "ar_muyassar",
+                "size": "2.6",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_muyassar.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Qurtubi Tafseer",
+                "file_name": "ar_qurtubi",
+                "size": "21.4",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_qurtubi.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Sa3di Tafseer",
+                "file_name": "ar_sa3dy",
+                "size": "7.3",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_sa3dy.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Tabari Tafseer",
+                "file_name": "ar_tabari",
+                "size": "36.1",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_tabari.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Tanweer Tafseer",
+                "file_name": "ar_tanweer",
+                "size": "30.6",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_tanweer.db",
+                "language_code": "ar"
+            },
+            {
+                "name": "Waseet Tafseer",
+                "file_name": "ar_waseet",
+                "size": "19.9",
+                "language": "Arabic",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ar_waseet.db",
+                "language_code": "ar"
+            }
+        ],
+        "Bengali": [
+            {
+                "name": "Ibn Kathir Full",
+                "file_name": "bn_tafsir_kathir_mujibor",
+                "size": "25",
+                "language": "Bengali",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/bn_tafsir_kathir_mujibor.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Tafsir Abu Bakar Zakaria",
+                "file_name": "bn_tafsir_zakariya",
+                "size": "12.7",
+                "language": "Bengali",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/bn_tafsir_zakariya.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Tafsir Ahsanul Bayaan",
+                "file_name": "bn_ahbayan",
+                "size": "8.3",
+                "language": "Bengali",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/bn_ahbayan.db",
+                "language_code": "bn"
+            },
+            {
+                "name": "Tafsir Fathul Mazid",
+                "file_name": "bn_fmazid",
+                "size": "12.5",
+                "language": "Bengali",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/bn_fmazid.db",
+                "language_code": "bn"
+            }
+        ],
+        "English": [
+            {
+                "name": "Ibn Kathir",
+                "file_name": "en_kathir",
+                "size": "12.7",
+                "language": "English",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/en_kathir.db",
+                "language_code": "En"
+            }
+        ],
+        "Indonesian": [
+            {
+                "name": "Tafsir Ibn Kathir",
+                "file_name": "in_tafsiribnkathir",
+                "size": "20.2",
+                "language": "Indonesian",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/in_tafsiribnkathir.db",
+                "language_code": "id"
+            },
+            {
+                "name": "Tafsir Kemenag RI",
+                "file_name": "in_tafisrdepagri",
+                "size": "10.8",
+                "language": "Indonesian",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/in_tafisrdepagri.db",
+                "language_code": "id"
+            }
+        ],
+        "Russian": [
+            {
+                "name": "Tafsir as-Saadi's",
+                "file_name": "ru_sa3dy",
+                "size": "12.3",
+                "language": "Russian",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ru_sa3dy.db",
+                "language_code": "ru"
+            }
+        ],
+        "Urdu": [
+            {
+                "name": "Tafsir Ahsanul Bayaan",
+                "file_name": "ur_ahsanulbayan",
+                "size": "6.3",
+                "language": "Urdu",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ur_ahsanulbayan.db",
+                "language_code": "ur"
+            },
+            {
+                "name": "Tafsir Ibn Kathir",
+                "file_name": "ur_tafsiribnkathir",
+                "size": "14.6",
+                "language": "Urdu",
+                "type": "tafseer",
+                "link": "https://download.quranmazid.com/qurandbs/tafsir/ur_tafsiribnkathir.db",
+                "language_code": "ur"
+            }
+        ]
+    }
+}

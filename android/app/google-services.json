@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447465673833",
+    "firebase_url": "https://quranmazid-175716.firebaseio.com",
+    "project_id": "quranmazid-175716",
+    "storage_bucket": "quranmazid-175716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447465673833:android:8c3b8dad7db4f206",
+        "android_client_info": {
+          "package_name": "com.ihadis.quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447465673833-u1544vdem9a2302vjoc8npts8bo7vdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UlVfxtnVqMmLkizYN5Vdwgp6s1sObsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447465673833-p778oi05fa29lpcj39j9n8r0cf8uski4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

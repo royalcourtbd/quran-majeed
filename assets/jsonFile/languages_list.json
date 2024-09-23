@@ -1,0 +1,27 @@
+{
+    "languages": [
+        {"language": "Bangla", "native_script": "বাংলা"},
+        {"language": "English"},
+        {"language": "Arabic"},
+        {"language": "Hindi"},
+        {"language": "Spanish"},
+        {"language": "Portuguese"},
+        {"language": "Russian"},
+        {"language": "Japanese"},
+        {"language": "German", "description": "Standard"},
+        {"language": "Javanese"},
+        {"language": "Korean"},
+        {"language": "French"},
+        {"language": "Vietnamese"},
+        {"language": "Italian"},
+        {"language": "Dutch"},
+        {"language": "Swedish"},
+        {"language": "Finnish"},
+        {"language": "Turkish"},
+        {"language": "Polish"},
+        {"language": "Danish"},
+        {"language": "Norwegian"},
+        {"language": "Greek"},
+        {"language": "Indonesian"}
+    ]
+}

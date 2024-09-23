@@ -1,0 +1,68 @@
+{
+  "wordbyword": [
+    {
+      "name": "Indonesian/Malay",
+      "file_name": "wbw_indo",
+      "size": "3",
+      "lang": "indo",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_indo.db"
+    },    
+    {
+      "name": "Urdu",
+      "file_name": "wbw_ur",
+      "size": "3.5",
+      "lang": "ur",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_ur.db"
+    },
+    {
+      "name": "German",
+      "file_name": "wbw_de",
+      "size": "3",
+      "lang": "de",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_de.db"
+    },
+    {
+      "name": "Hindi",
+      "file_name": "wbw_hi",
+      "size": "4.4",
+      "lang": "hi",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_hi.db"
+    },
+    {
+      "name": "Ingush",
+      "file_name": "wbw_inh",
+      "size": "3.4",
+      "lang": "inh",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_inh.db"
+    },
+    {
+      "name": "Russian",
+      "file_name": "wbw_ru",
+      "size": "3.5",
+      "lang": "ru",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_ru.db"
+    },
+    {
+      "name": "Tamil - Darul Huda",
+      "file_name": "wbw_ta",
+      "size": "4.7",
+      "lang": "ta",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_ta.db"
+    },
+    {
+      "name": "Turkish",
+      "file_name": "wbw_tr",
+      "size": "2.8",
+      "lang": "tr",
+      "type": "wordbyword",
+      "link": "https://download.quranmazid.com/qurandbs/wbw/wbw_tr.db"
+    }
+  ]
+}
